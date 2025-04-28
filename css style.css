@@ -1,0 +1,192 @@
+h1 {
+    color: #333333;
+    text-align: center;
+    font-size: 50px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #666666; 
+}
+
+h2 {
+    color: #444444;
+    font-size: 30px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666;
+    border-style: solid;
+}
+
+h3 {
+    color: #555555;
+    font-size: 25px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; 
+    border-style: solid;
+}
+
+p {
+    color: #333333;
+    font-size: 20px;
+    border-color: #666666; 
+    border-style: solid;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+details {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; 
+    border-style: solid;
+}
+
+summary {
+    color: #333333;
+    font-size: 20px;
+}
+
+form {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; 
+    border-style: solid;
+}
+
+video {
+    border-radius: 20px;
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    border-color: #666666; 
+    border-style: solid;
+}
+
+input {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #666666; 
+    border-style: solid;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="submit"],
+input[type="button"],
+input[type="reset"],
+input[type="file"],
+input[type="radio"] {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #666666; 
+    border-style: solid;
+}
+
+textarea,
+select {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #666666; 
+    border-style: solid;
+}
+climate-table {
+    width: 70%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+.climate-table {
+    width: 70%;
+    margin: 50px auto; 
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.climate-table th, .climate-table td {
+    border: 1px solid #333;
+    padding: 12px 15px;
+}
+
+.climate-table th {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+}
+
+.climate-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.climate-table tr:hover {
+    background-color: #ddd;
+}
+.table-title {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #333;
+}
+ol, ul {
+    margin: 20px left;
+    width: 50%;
+    font-size: 20px;
+    color: #333;
+}
+
+ol {
+    list-style-type: decimal; 
+}
+
+ul {
+    list-style-type: circle; 
+}
+dl {
+    margin-left: 40px;
+    font-size: 18px;
+    color: #333;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
